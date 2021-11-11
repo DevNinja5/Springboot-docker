@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.32">
+<file name="/app/docker-compose.dev.yml">
+</file>
+<file name="/app/Dockerfile">
+</file>
+</checkstyle>
